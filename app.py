@@ -3,9 +3,9 @@ import pandas as pd
 import joblib
 
 # Load models and mappings
-mappings = joblib.load(r"...\frequency_mappings.joblib")
-scaler = joblib.load(r"...\scaler_model.joblib")
-model = joblib.load(r"C:....rf_model.joblib")
+mappings = joblib.load(https://github.com/Muku94/IABAC_Project_final/blob/main/frequency_mappings.joblib)
+scaler = joblib.load(https://github.com/Muku94/IABAC_Project_final/blob/main/scaler_model.joblib)
+model = joblib.load(https://github.com/Muku94/IABAC_Project_final/blob/main/rf_model.joblib)
 
 # Define Streamlit layout
 st.title('Employee Prediction Model')
